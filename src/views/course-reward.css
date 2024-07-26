@@ -1,0 +1,243 @@
+.course-reward-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.course-reward-reward {
+  width: 100%;
+  height: 1117px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.course-reward-text {
+  top: 679px;
+  left: 786px;
+  color: rgba(50, 28, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 132.50000476837158%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course-reward-text02 {
+  top: 102px;
+  left: 1311px;
+  color: rgba(50, 28, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course-reward-group1 {
+  top: 108px;
+  left: 453px;
+  width: 822px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.course-reward-rectangle193 {
+  top: 0px;
+  left: 0px;
+  width: 124px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10.5px;
+}
+.course-reward-rectangle195 {
+  top: 0px;
+  left: 279px;
+  width: 124px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10.5px;
+}
+.course-reward-rectangle197 {
+  top: 0px;
+  left: 559px;
+  width: 123px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10.5px;
+}
+.course-reward-rectangle194 {
+  top: 0px;
+  left: 140px;
+  width: 123px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10.5px;
+}
+.course-reward-rectangle196 {
+  top: 0px;
+  left: 419px;
+  width: 124px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10.5px;
+}
+.course-reward-rectangle198 {
+  top: 0px;
+  left: 698px;
+  width: 124px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10.5px;
+}
+.course-reward-lang {
+  top: 97px;
+  left: 75px;
+  width: 148px;
+  height: 37px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.course-reward-group2 {
+  top: 923px;
+  left: 148px;
+  width: 1432px;
+  height: 95px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.course-reward-button {
+  top: 0px;
+  left: 1173px;
+  width: 259px;
+  height: 95px;
+  display: flex;
+  padding: 34.16470718383789px 91.10588836669922px;
+  position: absolute;
+  box-shadow: 0px 8px 0px 0px rgba(53, 32, 95, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(60, 46, 81, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 34.16470718383789px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(102, 79, 147, 1);
+}
+.course-reward-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 37px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.course-reward-button1 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 95px;
+  display: flex;
+  padding: 34.16470718383789px 91.10588836669922px;
+  position: absolute;
+  box-shadow: 0px 8px 0px 0px rgba(191, 191, 191, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(191, 191, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 34.16470718383789px;
+  justify-content: center;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.20000000298023224) 0%, rgba(255, 255, 255, 0) 100%);
+}
+.course-reward-text06 {
+  color: rgba(191, 191, 191, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 37px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.course-reward-text08 {
+  top: 746px;
+  left: 557px;
+  color: rgba(191, 191, 191, 1);
+  width: 613px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 140.49999713897705%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course-reward-handholdingwinnerscup {
+  top: 316px;
+  left: 713px;
+  width: 303px;
+  height: 323px;
+  position: absolute;
+  border-color: transparent;
+}

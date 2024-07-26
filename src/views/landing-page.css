@@ -1,0 +1,563 @@
+.landing-page-container {
+  min-height: 100vh;
+}
+.landing-page-landing-page {
+  width: 100%;
+  height: 2655px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 1121px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-rectangle12 {
+  top: 2192px;
+  left: 0px;
+  width: 1728px;
+  height: 463px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-lang {
+  top: 89px;
+  left: 79px;
+  width: 221px;
+  height: 55px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.landing-page-lang1 {
+  top: 2271px;
+  left: 79px;
+  width: 221px;
+  height: 55px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.landing-page-text {
+  top: 368px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 85px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-travelergivesaninterview {
+  top: 158px;
+  left: 931px;
+  width: 816px;
+  height: 898px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-preschooleducationforchildrenandthestudyofgeometri {
+  top: 1264px;
+  left: 79px;
+  width: 705px;
+  height: 709px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-text05 {
+  top: 2271px;
+  left: 1408px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text07 {
+  top: 2271px;
+  left: 1126px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text09 {
+  top: 2271px;
+  left: 810px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text11 {
+  top: 2271px;
+  left: 590px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text13 {
+  top: 2371px;
+  left: 79px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text15 {
+  top: 2312px;
+  left: 1408px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 162.5%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text22 {
+  top: 2312px;
+  left: 1126px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 162.5%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text27 {
+  top: 2312px;
+  left: 810px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 162.5%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text32 {
+  top: 2312px;
+  left: 590px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 162.5%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text39 {
+  top: 2972px;
+  left: 715px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 162.5%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text41 {
+  top: 2409px;
+  left: 79px;
+  color: rgba(255, 255, 255, 1);
+  width: 356px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 162.5%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text43 {
+  top: 598px;
+  left: 81px;
+  color: rgba(191, 191, 191, 1);
+  width: 618px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text45 {
+  top: 97px;
+  left: 1174px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text47 {
+  top: 100px;
+  left: 1318px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-button {
+  top: 63px;
+  left: 1425px;
+  width: 224px;
+  height: 95px;
+  display: flex;
+  padding: 34.16470718383789px 91.10588836669922px;
+  position: absolute;
+  box-shadow: 0px 8px 0px 0px rgba(255, 255, 255, 0.4000000059604645) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 34.16470718383789px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(50, 28, 92, 1);
+}
+.landing-page-text49 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 52.67059326171875px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text51 {
+  top: 1356px;
+  left: 878px;
+  color: rgba(50, 28, 92, 1);
+  width: 712px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text53 {
+  top: 1595px;
+  left: 878px;
+  color: rgba(50, 28, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text55 {
+  top: 1556px;
+  left: 878px;
+  color: rgba(254, 212, 21, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 112.99999952316284%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text57 {
+  top: 1672px;
+  left: 878px;
+  color: rgba(191, 191, 191, 1);
+  width: 746px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 140.49999713897705%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text59 {
+  top: 1811px;
+  left: 1033px;
+  color: rgba(191, 191, 191, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 140.49999713897705%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-ellipse1 {
+  top: 1818px;
+  left: 878px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-ellipse3 {
+  top: 1818px;
+  left: 940px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-ellipse2 {
+  top: 1818px;
+  left: 909px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-ellipse4 {
+  top: 1818px;
+  left: 971px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-vector1 {
+  top: 111px;
+  left: 1368px;
+  width: 13px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-languagetranslator1 {
+  top: 176px;
+  left: 1128px;
+  width: 288px;
+  height: 288px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-group1 {
+  top: 703px;
+  left: 81px;
+  width: 298px;
+  height: 80px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.landing-page-button1 {
+  top: 0px;
+  left: 0px;
+  width: 298px;
+  height: 80px;
+  display: flex;
+  padding: 34.16470718383789px 91.10588836669922px;
+  position: absolute;
+  box-shadow: 0px 8px 0px 0px rgba(255, 255, 255, 0.4000000059604645) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 34.16470718383789px;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(254, 212, 21, 1);
+}
+.landing-page-text61 {
+  color: rgb(50, 28, 92);
+  height: auto;
+  font-size: 31.32px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 900;
+  line-height: 52.6706px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

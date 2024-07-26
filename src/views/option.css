@@ -1,0 +1,299 @@
+.option-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.option-language-option {
+  width: 100%;
+  height: 1117px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(50, 28, 92, 1);
+}
+.option-text {
+  top: 346px;
+  left: 673px;
+  color: rgba(255, 255, 255, 1);
+  width: 382px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.option-text02 {
+  top: 109px;
+  left: 1301px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.option-text03 {
+  color: rgba(255, 255, 255, 1);
+}
+.option-arrowdown {
+  top: 97px;
+  left: 1536px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.option-vuesaxbulkarrowdown {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.option-arrowdown1 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.option-vector {
+  top: 23.858333587646484px;
+  left: 14.586915969848633px;
+  width: 31px;
+  height: 22px;
+  opacity: 0.40;
+  position: absolute;
+}
+.option-vector1 {
+  top: 23.858333587646484px;
+  left: 34.09583282470703px;
+  width: 21px;
+  height: 15px;
+  position: absolute;
+}
+.option-rectangle9 {
+  top: 482px;
+  left: 707px;
+  width: 314px;
+  height: 314px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 35px;
+}
+.option-rectangle91 {
+  top: 483px;
+  left: 236px;
+  width: 314px;
+  height: 314px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 35px;
+}
+.option-rectangle10 {
+  top: 482px;
+  left: 1178px;
+  width: 314px;
+  height: 314px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 35px;
+}
+.option-text05 {
+  top: 725px;
+  left: 755px;
+  color: rgba(255, 255, 255, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.option-text07 {
+  top: 725px;
+  left: 1226px;
+  color: rgba(255, 255, 255, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.option-group2 {
+  top: 482px;
+  left: 236px;
+  width: 314px;
+  height: 314px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 0);
+}
+.option-text09 {
+  top: 243px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.option-unitedstatessquareflag639804552724431 {
+  top: 38px;
+  left: 69px;
+  width: 175px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+}
+.option-navlink {
+  display: contents;
+}
+.option-spainflag515218843029421 {
+  top: 520px;
+  left: 1247px;
+  width: 175px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.option-indonesiaflag512816642716501 {
+  top: 525px;
+  left: 775px;
+  width: 175px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+}
+.option-button {
+  top: 76px;
+  left: 86px;
+  width: 164px;
+  height: 80px;
+  display: flex;
+  padding: 34.16470718383789px 91.10588836669922px;
+  position: absolute;
+  box-shadow: 0px 8px 0px 0px rgba(132, 119, 157, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(103, 79, 148, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 34.16470718383789px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.option-text11 {
+  color: rgba(109, 86, 152, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 900;
+  line-height: 52.67059326171875px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

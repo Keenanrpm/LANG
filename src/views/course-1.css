@@ -1,0 +1,203 @@
+.course1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.course1-pilih-level {
+  width: 100%;
+  height: 1117px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.course1-text {
+  top: 269px;
+  left: 574px;
+  color: rgba(50, 28, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 132.50000476837158%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course1-navlink {
+  display: contents;
+}
+.course1-frame3 {
+  top: 438px;
+  left: 391px;
+  width: 457px;
+  height: 385px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(191, 191, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 45px;
+  text-decoration: none;
+  background-color: rgba(249, 249, 249, 1);
+}
+.course1-text05 {
+  top: 192px;
+  left: 49px;
+  color: rgba(23, 23, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 146.00000381469727%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course1-younggirlthinksaboutsomethingandsays {
+  top: 29px;
+  left: 133px;
+  width: 169px;
+  height: 145px;
+  position: absolute;
+  border-color: transparent;
+}
+.course1-text10 {
+  top: 310px;
+  left: 82px;
+  color: rgba(191, 191, 191, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 140.49999713897705%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course1-navlink1 {
+  display: contents;
+}
+.course1-frame4 {
+  top: 438px;
+  left: 881px;
+  width: 457px;
+  height: 385px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(191, 191, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 45px;
+  text-decoration: none;
+  background-color: rgba(249, 249, 249, 1);
+}
+.course1-text12 {
+  top: 193px;
+  left: 34px;
+  color: rgba(23, 23, 23, 1);
+  width: 395px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 146.00000381469727%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course1-childsolvingrubikscube {
+  top: 27px;
+  left: 160px;
+  width: 138px;
+  height: 143px;
+  position: absolute;
+  border-color: transparent;
+}
+.course1-text14 {
+  top: 310px;
+  left: 82px;
+  color: rgba(191, 191, 191, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: 140.49999713897705%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.course1-button {
+  top: 76px;
+  left: 86px;
+  width: 164px;
+  height: 80px;
+  display: flex;
+  padding: 34.16470718383789px 91.10588836669922px;
+  position: absolute;
+  box-shadow: 0px 8px 0px 0px rgba(53, 32, 95, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(103, 79, 148, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 34.16470718383789px;
+  justify-content: center;
+  text-decoration: none;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.10000000149011612) 100%);
+}
+.course1-text16 {
+  color: rgba(109, 86, 152, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 900;
+  line-height: 52.67059326171875px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
